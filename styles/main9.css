@@ -5,7 +5,7 @@ body {
 }
 a:focus, a:hover {
     font-style: italic;
-    color: blue;
+    color: orangered;
 
 }
 header h1 {
