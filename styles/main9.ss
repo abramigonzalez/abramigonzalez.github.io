@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    font-size: 100%;
+    margin-left: 10px;
+}
+a:focus, a:hover {
+    font-style: italic;
+    color: blue;
+
+}
+header h1 {
+    font-size: 175%;
+    color: maroon;
+    text-indent: 30px;
+
+}
+header h2 {
+     font-size: 130%;
+    color: #800000;
+    text-indent: 30px;
+}
