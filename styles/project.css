@@ -47,6 +47,7 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
+    
 
 
 }
@@ -81,14 +82,12 @@ footer{
 }
 p.fixed {
     width: auto;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    float:right;
     background-color: lime;
-    color: green;
-    padding: 10px;
-    text-align: center;
+    padding: 2em;
+    border-style: 2px green;
+
+
 }
 
 
