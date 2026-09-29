@@ -47,8 +47,8 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    padding-bottom: 2em;
-    border-bottom: 2px solid maroon;
+    padding-top: 2em;
+    border-top: 2px solid maroon;
 
 }
 article h3 {
