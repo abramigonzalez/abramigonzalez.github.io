@@ -48,7 +48,8 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     clear: both;
-    border-top: 2px solid maroon;
+    border-top: 3px solid maroon;
+    border-width: auto;
 
 
 }
