@@ -53,7 +53,7 @@ article {
 }
 article h3 {
     clear: both;
-    border-top: 3px maroon;
+    border-top: 3px solid maroon;
     column-span: all;
 
 }
