@@ -48,8 +48,8 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     border-top: 2px solid maroon;
-    border-width: auto;
-    
+
+
 }
 article h3 {
     column-span: all;
