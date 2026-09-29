@@ -47,13 +47,13 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
+    clear: both;
+    border-top: 3px solid maroon;
     
 
 
 }
 article h3 {
-    clear: both;
-    border-top: 3px solid maroon;
     column-span: all;
 
 }
