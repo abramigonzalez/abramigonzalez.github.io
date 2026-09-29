@@ -50,6 +50,7 @@ article {
 
 }
 article h3 {
+    padding-top: 2em;
     padding-bottom: 2em;
     border-top: 2px solid maroon;
     column-span: all;
