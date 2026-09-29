@@ -35,6 +35,8 @@ header h2 {
 header img {
     float: left;
     margin-left: 2em;
+    clear: both;
+    border-top: 3px solid maroon;
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
@@ -47,8 +49,6 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    clear: both;
-    border-bottom: 3px solid maroon;
     
 
 
