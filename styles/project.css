@@ -51,6 +51,7 @@ article {
 }
 article h3 {
     column-span: all;
+    line-break: auto;
 
 }
 article img{
@@ -84,7 +85,7 @@ p.fixed {
     background-color: lime;
     padding: 2em;
     border-color: green;
-    
+
 }
 
 
