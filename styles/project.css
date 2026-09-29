@@ -78,5 +78,10 @@ footer{
     border-top: 2px solid maroon;
 
 }
+p.fixed {
+    width: auto;
+    float:right;
+    background-color: lime
+}
 
 
