@@ -47,12 +47,13 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    padding-top: 2em;
-    border-top: 2px solid maroon;
 
 }
 article h3 {
+    padding-bottom: 2em;
+    border-top: 2px solid maroon;
     column-span: all;
+
 
 }
 article img{
