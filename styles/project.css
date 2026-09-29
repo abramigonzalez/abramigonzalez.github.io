@@ -84,7 +84,8 @@ p.fixed {
     float:right;
     background-color: lime;
     padding: 2em;
-    border-color: green;
+    border: 2px green;
+    
 
 }
 
