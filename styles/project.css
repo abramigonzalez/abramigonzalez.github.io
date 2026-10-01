@@ -52,6 +52,7 @@ article {
 article h3 {
     clear: both;
     border-top: 2px solid maroon;
+    padding-bottom: 1em;
     column-span: all;
 
 
