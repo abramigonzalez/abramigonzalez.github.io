@@ -64,7 +64,7 @@ h1 {
     border-bottom: 2px solid #006600;
     padding-bottom: 10px;
 }
-.multi-column {
+.multi-column-wrapper {
     columns: 3;
     column-rule:#004d00;
     column-gap: 2rem;
