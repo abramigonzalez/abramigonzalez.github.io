@@ -71,7 +71,7 @@ table.second thead tr:first-child{
 
 table.third thead tr {
     background-color: lightgreen;
-    border-top: orangered;
+    
 }
 
 table.third thead th {
@@ -79,6 +79,8 @@ table.third thead th {
     padding: 10px;
     border: none;
     font-weight: bold;
+    border-top: 2px solid orangered;
+    
 }
 
 
@@ -114,7 +116,7 @@ table.third tbody td {
 table.third tbody td:nth-child(3) {
     text-align: right;
     padding-right: 20px;
-    border-bottom: 2px solid orangered;
+    
 }
 
 @media only screen and (max-width: 425px) { 
