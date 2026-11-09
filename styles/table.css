@@ -80,7 +80,7 @@ table.third thead th {
     border: none;
     font-weight: bold;
     border-top: 2px solid orangered;
-    
+    border-bottom: 2px solid orangered;
 }
 
 
