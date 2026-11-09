@@ -68,3 +68,45 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple; 
 
 } 
+
+table.third {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+}
+
+table.third th, table.third td {
+    padding: 0.7em;
+    vertical-align: top;
+    border: 1px solid orangered;
+}
+
+table.third thead tr:first-child {
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+    background-color: #ffe6e0;
+    text-align: center;
+}
+
+table.third thead tr:nth-child(2) {
+    background-color: orangered;
+    color: white;
+}
+
+table.third tbody tr:nth-child(even) {
+    background-color: #fff0eb;
+}
+
+table.third tbody tr:last-child {
+    border-bottom: 2px solid orangered;
+}
+
+@media only screen and (max-width: 425px) { 
+    th, td { 
+        display: block; 
+    } 
+    thead, td.number { 
+        display: none; 
+        padding: 0; 
+    }     
+}
