@@ -76,6 +76,7 @@ table.third thead tr {
 
 table.third thead th {
     color: black;
+    border-collapse: collapse;
     padding: 10px;
     font-weight: bold;
     border-top: 2px solid orangered;
